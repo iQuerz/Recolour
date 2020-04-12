@@ -3,6 +3,7 @@
  
  Supported blocks:
     terracotta, wool, carpet, glass, glasspane.
-    crafting is the same as non-coloured block colouring.
+    
+    Crafting is the same as non-coloured block colouring.
 
 ### Version 1.0.0
